@@ -344,7 +344,7 @@ public class Board extends JPanel implements ActionListener {
         pacman_x = pacman_x + PACMAN_SPEED * pacmand_x;
         pacman_y = pacman_y + PACMAN_SPEED * pacmand_y;
     }
-
+  //yeheyheyhedyheyheyh
     private void drawPacman(Graphics2D g2d) {
 
         if (view_dx == -1) {
